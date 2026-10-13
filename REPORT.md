@@ -12,7 +12,7 @@ Name: Danil Sobar Group: PO 25-Z Date: 13.10.2026
 * [x] TODO 3: `null` в PATCH выдает 422
 * [x] TODO 4 и 5: 404 с `"code": "message_not_found"`
 * [x] TODO 6: 409 с `"code": "chat_full"`
-* Bruno на перезапущенном сервере: ___ of 13
+* Bruno на перезапущенном сервере: 13 of 13
 
 ## 1. Трейсбэк
 
